@@ -2,7 +2,7 @@
 
 A full-stack data analysis project that connects **SQL** with **Python** and builds an interactive **Streamlit** dashboard for exploring cleaned flight data.
 
-![Header](images/header_flight_dashboard.png) <!-- Replace with your image path -->
+![Header](Dashboard-1.png) <!-- Replace with your image path -->
 
 ---
 
