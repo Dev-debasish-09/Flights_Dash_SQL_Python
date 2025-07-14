@@ -53,7 +53,7 @@ conn = mysql.connector.connect(
 # Fetch data
 query = "SELECT * FROM flights_cleaned;"
 df = pd.read_sql(query, conn)
-Make sure your MySQL server is running and replace credentials accordingly.
+Make sure your MySQL server is running and replace credentials accordingly.```
 
 💻 How to Run the Project
 Clone the repo
